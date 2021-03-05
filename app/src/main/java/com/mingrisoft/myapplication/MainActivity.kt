@@ -13,4 +13,7 @@ class MainActivity : AppCompatActivity() {
         // 登录模块
     }
 
+    fun downData(){
+        // 网络下载数据
+    }
 }
